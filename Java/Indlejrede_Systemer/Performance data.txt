@@ -1,0 +1,81 @@
+	SPEED: 
+
+Number of cycles for the complete dataset:
+	
+11030 cycles
+
+Number of clocks pr. data point:
+	
+44 cycles
+
+Average number of clocks pr. data point:
+
+44.12 ~ 44 cycles  (Meaning, all cycles are approximately of equal length)
+
+
+
+Critical data path: 
+
+REG -> ALU -> MUX -> REG
+From Lecture example: 
+	Read/write: 		 25 ns.
+	Arithmetic computations: 50 ns.
+
+
+Most critical path time: 
+	Read + Arithmetic computation + Write
+	25 ns + 50 ns + 25 ns = 100 ns.
+
+Meaning the relative clock time should be set at 100 ns.
+With 44 cycles pr data point, the total time pr data point is: 4.4 us. 
+After 10 000 data points, we get a reference time: 44 000 us = 44 ms.
+Running at a clock frequency at 10 MHz.
+
+This is slower than the test in assignment 1, but this was tested on a modern laptop CPU. 
+The processor of the laptop from assignment 1, runs at a frequency of 2.7 GHz, meaning it has a 270 times shorter clock cycle. 
+
+
+	AREA: 
+
+Total size in cpu:
+Created in components not regarding input and output:
+
+	PC	reg: 5
+		sig: 5
+	
+	ROM 	reg: 0
+		sig: 0
+
+	fetch 	reg: 0
+		sig: 0
+
+	REG	reg: 32 + 32 + 32 + 32 + 32 + 32 + 32
+		sig: 0
+
+	ALU	reg: 0
+		sig: 8
+
+	CONTROL reg: 0
+		sig: 0
+
+	SHUTTLE reg: 0
+		sig: 0
+
+	MUX	reg: 0
+		sig: 0
+
+Connections in CPU: 
+		sig: 8*1 + 5 + 16 + 5*32 + 2*4
+
+Last connections from fetch to ROM:
+		sig: 5 + 1 + 2*16
+
+TOTAL SUM: 477 
+
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+Gold: 13303
+GoldCollectDistance: 90
+GoldCollectSpeed: 6
+Damage: 26
+Exp: 3
+Level: 7
+Deaths: 9
+Health: 100
+WaveNumber: 5
+WaveEnemyNumber: 125
+WaveEnemySpawnTime: 450
+Score: 950
+EnemyCount: 95
+EnemySpawned: 101
+EnemyCounter: 23

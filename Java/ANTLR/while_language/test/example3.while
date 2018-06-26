@@ -1,0 +1,4 @@
+
+if true && true || false && false then x:=0 else x:=1;
+if !false && false then y:=0 else y:=1
+

@@ -1,0 +1,7 @@
+x:=20;
+y:=10;
+if y<=x then x:=0
+else{ tmp := x;
+      x := y;
+      y := tmp
+}

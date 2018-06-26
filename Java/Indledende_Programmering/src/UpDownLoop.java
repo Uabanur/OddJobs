@@ -1,0 +1,14 @@
+
+public class UpDownLoop {
+
+	public static void main(String[] args) {
+		
+		for(int i = 0; i <= 5; i++){
+			System.out.print(10-i + " " + i);
+			if(i != 5)
+				System.out.print(" ");
+		}
+		
+	}
+	
+}
