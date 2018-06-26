@@ -1,0 +1,3 @@
+reg_allCombi_Trans_Mean_Std
+y = 8.93e-03 - 2.77e-01 * Al - 4.20e-01 * Si + 6.47e-01 * Ca + 1.72e-01 * Ba + 4.62e-02 * K | Si
+Final R^2: 0.8843520731943195

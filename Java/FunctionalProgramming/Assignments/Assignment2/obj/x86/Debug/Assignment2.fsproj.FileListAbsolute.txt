@@ -1,0 +1,9 @@
+/Users/Roar/Documents/DTU/Functional Programming/Assignments/Assignment2/bin/Debug/Assignment2.exe
+/Users/Roar/Documents/DTU/Functional Programming/Assignments/Assignment2/bin/Debug/Assignment2.exe.mdb
+/Users/Roar/Documents/DTU/Functional Programming/Assignments/Assignment2/bin/Debug/FSharp.Core.dll
+/Users/Roar/Documents/DTU/Functional Programming/Assignments/Assignment2/bin/Debug/System.ValueTuple.dll
+/Users/Roar/Documents/DTU/Functional Programming/Assignments/Assignment2/bin/Debug/FSharp.Core.xml
+/Users/Roar/Documents/DTU/Functional Programming/Assignments/Assignment2/obj/x86/Debug/Assignment2.fsprojResolveAssemblyReference.cache
+/Users/Roar/Documents/DTU/Functional Programming/Assignments/Assignment2/obj/x86/Debug/Assignment2.fsproj.CoreCompileInputs.cache
+/Users/Roar/Documents/DTU/Functional Programming/Assignments/Assignment2/obj/x86/Debug/Assignment2.exe
+/Users/Roar/Documents/DTU/Functional Programming/Assignments/Assignment2/obj/x86/Debug/Assignment2.exe.mdb

@@ -1,0 +1,35 @@
+Testing models ANN and KNN:
+p-value: 7.91e-01
+Ttest: Classifiers ARE NOT significantly different.
+zL:-3.25 and zH:0.62
+CI: Classifiers ARE NOT significantly different
+
+Testing models ANN and DT:
+p-value: 5.15e-01
+Ttest: Classifiers ARE NOT significantly different.
+zL:-6.74 and zH:0.06
+CI: Classifiers ARE NOT significantly different
+
+Testing models ANN and LargestClass:
+p-value: 5.16e-10
+Ttest: Classifiers ARE significantly different.
+zL:-41.27 and zH:-36.67
+CI: Classifiers ARE significantly different.
+
+Testing models KNN and DT:
+p-value: 7.11e-01
+Ttest: Classifiers ARE NOT significantly different.
+zL:-5.15 and zH:1.10
+CI: Classifiers ARE NOT significantly different
+
+Testing models KNN and LargestClass:
+p-value: 9.52e-09
+Ttest: Classifiers ARE significantly different.
+zL:-40.52 and zH:-34.80
+CI: Classifiers ARE significantly different.
+
+Testing models DT and LargestClass:
+p-value: 4.49e-08
+Ttest: Classifiers ARE significantly different.
+zL:-38.77 and zH:-32.49
+CI: Classifiers ARE significantly different.

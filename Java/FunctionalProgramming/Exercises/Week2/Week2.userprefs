@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{81D02E68-7303-47F3-A143-4C174D3C2287}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.fs">
+    <Files>
+      <File FileName="Program.fs" Line="62" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Week2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,17 @@
+Testing models ANN and LR:
+p-value: 0.373
+Ttest: Classifiers ARE NOT significantly different.
+zL:-1.64e-05 and zH:4.14e-06
+CI: Classifiers ARE NOT significantly different
+
+Testing models ANN and Mean:
+p-value: 0.000
+Ttest: Classifiers ARE significantly different.
+zL:-2.18e-04 and zH:-1.15e-04
+CI: Classifiers ARE significantly different.
+
+Testing models LR and Mean:
+p-value: 0.000
+Ttest: Classifiers ARE significantly different.
+zL:-2.06e-04 and zH:-1.15e-04
+CI: Classifiers ARE significantly different.

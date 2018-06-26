@@ -1,0 +1,2 @@
+/Users/Roar/Documents/DTU/Functional Programming/sandbox/obj/x86/Debug/sandbox.fsprojResolveAssemblyReference.cache
+/Users/Roar/Documents/DTU/Functional Programming/sandbox/obj/x86/Debug/sandbox.fsproj.CoreCompileInputs.cache

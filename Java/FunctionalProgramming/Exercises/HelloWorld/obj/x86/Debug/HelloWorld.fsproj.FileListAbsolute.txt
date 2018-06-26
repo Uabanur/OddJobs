@@ -1,0 +1,9 @@
+/Users/Roar/Documents/DTU/Functional Programming/Projects/HelloWorld/bin/Debug/HelloWorld.exe
+/Users/Roar/Documents/DTU/Functional Programming/Projects/HelloWorld/bin/Debug/HelloWorld.exe.mdb
+/Users/Roar/Documents/DTU/Functional Programming/Projects/HelloWorld/bin/Debug/FSharp.Core.dll
+/Users/Roar/Documents/DTU/Functional Programming/Projects/HelloWorld/bin/Debug/System.ValueTuple.dll
+/Users/Roar/Documents/DTU/Functional Programming/Projects/HelloWorld/bin/Debug/FSharp.Core.xml
+/Users/Roar/Documents/DTU/Functional Programming/Projects/HelloWorld/obj/x86/Debug/HelloWorld.fsprojResolveAssemblyReference.cache
+/Users/Roar/Documents/DTU/Functional Programming/Projects/HelloWorld/obj/x86/Debug/HelloWorld.fsproj.CoreCompileInputs.cache
+/Users/Roar/Documents/DTU/Functional Programming/Projects/HelloWorld/obj/x86/Debug/HelloWorld.exe
+/Users/Roar/Documents/DTU/Functional Programming/Projects/HelloWorld/obj/x86/Debug/HelloWorld.exe.mdb

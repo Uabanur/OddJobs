@@ -1,0 +1,9 @@
+/Users/Roar/Documents/DTU/Functional Programming/Exercises/Week11/obj/x86/Debug/Week11.fsprojResolveAssemblyReference.cache
+/Users/Roar/Documents/DTU/Functional Programming/Exercises/Week11/obj/x86/Debug/Week11.fsproj.CoreCompileInputs.cache
+/Users/Roar/Documents/DTU/Functional Programming/Exercises/Week11/bin/Debug/Week11.exe
+/Users/Roar/Documents/DTU/Functional Programming/Exercises/Week11/bin/Debug/Week11.exe.mdb
+/Users/Roar/Documents/DTU/Functional Programming/Exercises/Week11/bin/Debug/FSharp.Core.dll
+/Users/Roar/Documents/DTU/Functional Programming/Exercises/Week11/bin/Debug/System.ValueTuple.dll
+/Users/Roar/Documents/DTU/Functional Programming/Exercises/Week11/bin/Debug/FSharp.Core.xml
+/Users/Roar/Documents/DTU/Functional Programming/Exercises/Week11/obj/x86/Debug/Week11.exe
+/Users/Roar/Documents/DTU/Functional Programming/Exercises/Week11/obj/x86/Debug/Week11.exe.mdb

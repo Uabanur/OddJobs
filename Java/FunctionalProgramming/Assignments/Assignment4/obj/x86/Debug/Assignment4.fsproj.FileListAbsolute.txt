@@ -1,0 +1,9 @@
+/Users/Roar/Documents/DTU/Functional Programming/Assignments/Assignment4/bin/Debug/Assignment4.exe
+/Users/Roar/Documents/DTU/Functional Programming/Assignments/Assignment4/bin/Debug/Assignment4.exe.mdb
+/Users/Roar/Documents/DTU/Functional Programming/Assignments/Assignment4/bin/Debug/FSharp.Core.dll
+/Users/Roar/Documents/DTU/Functional Programming/Assignments/Assignment4/bin/Debug/System.ValueTuple.dll
+/Users/Roar/Documents/DTU/Functional Programming/Assignments/Assignment4/bin/Debug/FSharp.Core.xml
+/Users/Roar/Documents/DTU/Functional Programming/Assignments/Assignment4/obj/x86/Debug/Assignment4.fsprojResolveAssemblyReference.cache
+/Users/Roar/Documents/DTU/Functional Programming/Assignments/Assignment4/obj/x86/Debug/Assignment4.fsproj.CoreCompileInputs.cache
+/Users/Roar/Documents/DTU/Functional Programming/Assignments/Assignment4/obj/x86/Debug/Assignment4.exe
+/Users/Roar/Documents/DTU/Functional Programming/Assignments/Assignment4/obj/x86/Debug/Assignment4.exe.mdb
